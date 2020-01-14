@@ -45,7 +45,7 @@ login();
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="chrome=1"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Server Terminal Control</title>
+    <title>服务器控制终端</title>
     <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <style>
@@ -70,7 +70,7 @@ login();
     </style>
 <body>
 <div style='margin: 10% auto; width:350px; background-color: rgba(255,255,255,0.8); padding:10px; border-radius:5px;text-align:center;'>
-    <h3>Login Panel</h3>
+    <h3>登录面板</h3>
     <form action='' method='POST'>
         <input type='text' name='username' placeholder='Username'
                style='font-family: "Raleway", sans-serif;background-color: rgba(255,255,255,0.8); border:none;padding:5px; border-radius:5px; width:100%;'>

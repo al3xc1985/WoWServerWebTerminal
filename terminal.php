@@ -231,9 +231,9 @@ if (empty($_SESSION["CM_Login"])) {
 <body>
 <main>
     <section id="home" class="home">
-        <h2>TrinityCore/Mangos/AzerothCore Management Terminal</h2>
-        <p><span>Type 'commands' + <kbd>Enter</kbd> -- for available commands.</span></p>
-        <p><span>Type 'logout' or 'exit' + <kbd>Enter</kbd> -- logout from panel.</span></p>
+        <h2>TrinityCore/Mangos/AzerothCore 管理终端</h2>
+        <p><span>Type 'commands' + <kbd>Enter</kbd> -- 可用命令.</span></p>
+        <p><span>Type 'logout' or 'exit' + <kbd>Enter</kbd> -- 注销面板.</span></p>
     </section>
     <section id="output"></section>
     <section class="command">WorldServer:/$<input type="text"></section>
